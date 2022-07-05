@@ -1,0 +1,43 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/IMAGE/MS/perpus.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.Trending {
+    height: auto;
+    background: url("../assets/IMAGE/MS/background.jpg");
+    background-size: cover;
+}
+
+.Drama {
+    height: auto;
+    background: url("../assets/IMAGE/MS/background.jpg");
+    background-size: cover;
+}
+
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 1px 10px 1px 10px;
+    padding: 0px;
+}
+
+.images {
+    height: 250px;
+}
